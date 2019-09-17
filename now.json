@@ -1,0 +1,7 @@
+{
+    "name": "Bot-Tester",
+    "version": 2,
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }  
+      ]
+  }
